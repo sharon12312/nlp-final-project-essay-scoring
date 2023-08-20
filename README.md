@@ -10,4 +10,4 @@ The code demonstrates the implementation of transfer learning techniques to fine
 The code offers a practical and efficient solution for building cross-lingual automated essay scoring systems, benefiting educators, language learners, and NLP researchers.
 
 ## Code
-The code for this research project, including the implementation of the models, data processing, evaluation, and prediction, can be found in the following [link](https://colab.research.google.com/drive/13EG3v4-j1bJKJt4algUWtOijYrOOOGaq?usp=sharing).
+The code for this research project, including the implementation of the models, data processing, evaluation, and prediction, can be found in the following link.
